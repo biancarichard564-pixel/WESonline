@@ -31,7 +31,14 @@ Settlement |Grid 3 |https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-
 
 Electricity infrastructure data |VNL_npp_2024_global_vcmslcfg_v2_c202502261200.average_masked.dat.tif.gz (2025) |1kb
 
-software you used. QGIS 3.x Goggle Collab Microsoft Excel Microsoft word
+### software you used. 
+QGIS 3.x 
+
+Microsoft Excel 
+
+Microsoft word
+
+Powerpoint
 
 ## Method
 All datasets were imported into QGIS and clipped to the Imo State boundary. The electricity raster was classified into Very Low, Low, Moderate, High and Very High electricity access categories. Settlement, school and health facility datasets were overlaid on the electricity layer and raster values were extracted to determine their level of electricity access. The resulting layers were classified and symbolised to identify communities and critical facilities located in underserved areas. Spatial patterns were then analysed to highlight locations where improved electricity access could enhance education, healthcare and community development opportunities.
